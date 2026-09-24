@@ -1,4 +1,7 @@
 ---
+genres:
+  - simulation
+  - racing
 post: https://github.com/picosonic/js13k-2021/blob/main/devdiary/diary.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
